@@ -1,5 +1,8 @@
 {
-  "name": "package-react-test",
+  "name": "@kevinangkajaya/package-react-test",
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/kevinangkajaya"
+  },
   "version": "1.0.0",
   "description": "",
   "scripts": {
