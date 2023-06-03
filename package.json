@@ -1,9 +1,13 @@
 {
   "name": "@kevinangkajaya/package-react-test",
   "publishConfig": {
-    "registry": "https://npm.pkg.github.com/kevinangkajaya"
+    "access": "public"
   },
-  "version": "1.0.2",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kevinangkajaya/package-react-test"
+  },
+  "version": "1.0.3",
   "description": "",
   "scripts": {
     "rollup": "rollup -c",
